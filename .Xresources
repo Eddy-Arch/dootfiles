@@ -1,0 +1,46 @@
+! special
+*.foreground:   #cacbd9
+*.background:   #282828
+*.cursorColor:  #cacbd9
+ 
+! black
+*.color0:       #151624
+*.color8:       #55959d
+ 
+! red
+*.color1:       #1e1f30
+*.color9:       #7eabb0
+ 
+! green
+*.color2:       #2e3047
+*.color10:      #90cbd2
+ 
+! yellow
+*.color3:       #444766
+*.color11:      #d27860
+ 
+! blue
+*.color4:       #60648b
+*.color12:      #78d39e
+ 
+! magenta
+*.color5:       #8588a9
+*.color13:      #d49f94
+ 
+! cyan
+*.color6:       #b0b2c7
+*.color14:      #d29f95
+ 
+! white
+*.color7:       #e1e2ea
+*.color15:      #848ac4
+ 
+!URxvt.transparent: true
+!URxvt.shading:5
+ 
+! Included this so you know how to make your foreground not match the color of your background
+URxvt.foreground: #eeeeee
+URxvt.scrollBar: false
+
+URxvt.font: xft:monospace:size=10
+URxvt.letterSpace: 0
